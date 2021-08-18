@@ -1,0 +1,11 @@
+Good day to you,
+
+I am an engineering student of automated production engineering at the École de Technologies Supérieure (Superior School of Technologie) in Montreal, Qc. I am at the end of my bachelor's degree and am currently doing my final engineering project. Me and my team decided to do a Barbot and are very interested in your products, specificaly the Metrix SL 25ml. Unfortunatly, I was unable to find a CAD file of that part for our design. I was wondering if it would be possible to have the CAD files for this product. I am using SolidWorks 2021, but a STL or STEP file would work just as well. If you are worried about you intellectual property being leaked, we do not require the inside of your mechanism, we mainly need the distance from the attatch point to the trigger, the attach point to the dispenser hole as well as the overall dimensions to make sur it fits in our machine. A drawing with the required dimensions could be used as well. We were also interested in your 40 oz wall brackets. We find the mounting mechanism to be both very clever and usefull for our application.
+
+Your help would be much appreciated in our project. This project is not intended for commercial use, but all 4 members of our team plan on building the finished product for our own personnal use.
+
+Best regards,
+
+Maxime Royal
+Automated Production engineering student,
+École de Technologies Supérieur
